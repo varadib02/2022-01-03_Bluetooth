@@ -2,6 +2,9 @@ body {
   font-family: sans-serif;
   background-attachment: fixed;
   background-size: cover;
+  background-image: url(hatter.jpg);
+  background-repeat: no-repeat;
+ 
 }
 
 #content {
@@ -63,5 +66,5 @@ span{
   font: bold;
 }
 myTable{
-  
+
 }
